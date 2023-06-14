@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yaron/Documents/Proyects/CanyonWars/Content/Maps/Mundo1.umap",
+				"C:/Users/yaron/Documents/Proyects/CanyonWars/Content/Actors/BP_GameMode.uasset",
+				"C:/Users/yaron/Documents/Proyects/CanyonWars/Content/Actors/BP_PlayerControlerTower.uasset",
+				"C:/Users/yaron/Documents/Proyects/CanyonWars/Content/Actors/BP_Pawn_CanyonTower.uasset",
+				"C:/Users/yaron/Documents/Proyects/CanyonWars/Content/Materials/VerdePasto.uasset",
+				"C:/Users/yaron/Documents/Proyects/CanyonWars/Content/Materials/GrisTorre.uasset",
+				"C:/Users/yaron/Documents/Proyects/CanyonWars/Content/Materials/NegroCanion.uasset",
+				"C:/Users/yaron/Documents/Proyects/CanyonWars/Content/Actors/SM_Template_Map_Floor.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset"
+			]
+		}
+	]
+}
